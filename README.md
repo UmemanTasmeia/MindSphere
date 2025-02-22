@@ -13,9 +13,9 @@ Mental health is just as important as physical health 🏥. However, finding the
   
 Relax and focus with AI-curated playlists designed to enhance your mood and cognitive function.
 
-- 🤖 Mental Health Companion Chatbot
+- 🤖 Mental Health Companion AI facial recognisation
   
- Engage in meaningful conversations with an AI-powered chatbot that provides emotional support and valuable mental health resources.
+ Engage in meaningful conversations with an AI-powered facial recognisation that provides emotional support and valuable mental health resources.
 
 - 👥 Social Connection Platform
   
