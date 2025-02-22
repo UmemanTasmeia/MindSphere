@@ -60,6 +60,10 @@ This project is licensed under the [MIT License](LICENSE).
 Contact
 For any inquiries or support, reach out to us at
 zoharaf27@gmail.com
+
 prrakshitha0929@gmail.com
+
 seemasimmu2003@gmail.com
+
 umemantasmeiak@gmail.com
+
