@@ -2,13 +2,16 @@
 A Holistic Mental Wellness Platform
 
 * Introduction
+  
 Imagine a platform that combines music, social connections, games and expert resources to support your mental well-being 🧠💡. That's *MindSphere* 🌐.
 
 * Problem Statement
+  
 Mental health is just as important as physical health 🏥. However, finding the right resources and support can be challenging 🤔.
 *MindSphere* aims to bridge this gap by providing a comprehensive mental wellness platform that empowers users with personalized tools and a supportive community 💪.
 
 * Features
+  
 - 🎵 Personalized Music Therapy
   
 Relax and focus with AI-curated playlists designed to enhance your mood and cognitive function.
@@ -43,12 +46,14 @@ Relax and focus with AI-curated playlists designed to enhance your mood and cogn
 
     
 * Technologies Used
+  
 - *Frontend:* HTML, CSS, JavaScript
 - *Backend:* Node.js (Optional for advanced features)
 - *AI & Mood Tracking:* Python (Optional for future updates)
 - *Authentication:* Email & Password-based login system
 
 * Benefits
+  
 - *Improve mental well-being and resilience* 🌈💪
 - *Connect with a supportive community* 👥🤝
 - *Gain access to expert mental health resources* 📚💡
