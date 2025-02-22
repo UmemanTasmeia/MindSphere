@@ -11,20 +11,29 @@ Mental health is just as important as physical health 🏥. However, finding the
 * Features
 - 🎵 Personalized Music Therapy
 Relax and focus with AI-curated playlists designed to enhance your mood and cognitive function.
+
 - 🤖 Mental Health Companion Chatbot
  Engage in meaningful conversations with an AI-powered chatbot that provides emotional support and valuable mental health resources.
+
 - 👥 Social Connection Platform
  Connect with others who share similar emotional experiences, fostering a sense of belonging and understanding.
+
 -📷 AI-Powered Mood Tracking
  Utilizing camera-based AI analysis, track and gain insights into your emotional state for better self-awareness and growth.
+ 
 -📚 Comprehensive Resource Library
  Access a rich collection of articles, videos, podcasts, and expert advice tailored to various mental health topics.
+ 
 - 🔑 Secure Login System
  Users can log in securely using *Email and Password* authentication to access their personalized mental wellness dashboard.
+
 - 👾 Games
   A scientifically designed game to promote mental well-being through interactive mindfulness and stress management techniques.
+  
 - 😴💤calm Dreamscape
-  A soothing ASMR experience that transports you to a peaceful slumber, calming your mind and body.   
+  A soothing ASMR experience that transports you to a peaceful slumber, calming your mind and body.
+
+    
 * Technologies Used
 - *Frontend:* HTML, CSS, JavaScript
 - *Backend:* Node.js (Optional for advanced features)
