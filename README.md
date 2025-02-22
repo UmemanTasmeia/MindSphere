@@ -22,9 +22,9 @@ Relax and focus with AI-curated playlists designed to enhance your mood and cogn
 - 🔑 Secure Login System
  Users can log in securely using *Email and Password* authentication to access their personalized mental wellness dashboard.
 - 👾 Games
- A scientifically designed game to promote mental well-being through interactive mindfulness and stress management techniques.
+  A scientifically designed game to promote mental well-being through interactive mindfulness and stress management techniques.
 - 😴💤calm Dreamscape
-   A soothing ASMR experience that transports you to a peaceful slumber, calming your mind and body.   
+  A soothing ASMR experience that transports you to a peaceful slumber, calming your mind and body.   
 * Technologies Used
 - *Frontend:* HTML, CSS, JavaScript
 - *Backend:* Node.js (Optional for advanced features)
